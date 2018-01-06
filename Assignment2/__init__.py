@@ -1,0 +1,1 @@
+from prog4 import eulerfunction
